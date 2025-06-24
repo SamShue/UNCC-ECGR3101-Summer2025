@@ -1,7 +1,7 @@
 [
    {
-      "directory" : "C:/Users/slshue/workspace_ccstheia/FSM_Traffic_Light_State_Table/Debug",
-      "command"   : "clang++ -I\"C:/ti/ccstheia151/ccs/ccs_base/msp430/include\" -I\"C:/Users/slshue/workspace_ccstheia/FSM_Traffic_Light_State_Table\" -I\"C:/ti/ccstheia151/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
-      "file"      : "C:/Users/slshue/workspace_ccstheia/FSM_Traffic_Light_State_Table/main.c"
+      "directory" : "C:/Users/slshue/Documents/GitHub/UNCC-ECGR3101-Summer2025/FSM_Traffic_Light_State_Table/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccstheia151/ccs/ccs_base/msp430/include\" -I\"C:/Users/slshue/Documents/GitHub/UNCC-ECGR3101-Summer2025/FSM_Traffic_Light_State_Table\" -I\"C:/ti/ccstheia151/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__",
+      "file"      : "C:/Users/slshue/Documents/GitHub/UNCC-ECGR3101-Summer2025/FSM_Traffic_Light_State_Table/main.c"
    }
 ]

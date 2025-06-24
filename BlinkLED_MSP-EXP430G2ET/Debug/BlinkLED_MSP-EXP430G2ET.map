@@ -1,7 +1,7 @@
 ******************************************************************************
                   MSP430 Linker PC v21.6.1                     
 ******************************************************************************
->> Linked Thu Jun 12 15:36:16 2025
+>> Linked Tue Jun 24 15:40:17 2025
 
 OUTPUT FILE NAME:   <BlinkLED_MSP-EXP430G2ET.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs"  address: 0000c044

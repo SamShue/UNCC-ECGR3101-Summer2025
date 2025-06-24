@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "FSM_Clock_Config",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "FSM_Clock_Config",
+                "resourceId": "/FSM_Clock_Config/main.c"
+            }
+        },
+        {
+            "name": "GPIO_Functionalized_Example",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "GPIO_Functionalized_Example",
+                "resourceId": "/GPIO_Functionalized_Example/main.c"
+            }
+        },
+        {
+            "name": "FSM_Traffic_Light_Crosswalk",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "FSM_Traffic_Light_Crosswalk",
+                "resourceId": "/FSM_Traffic_Light_Crosswalk/main.c"
+            }
+        }
+    ]
+}
