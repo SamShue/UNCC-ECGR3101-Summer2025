@@ -27,6 +27,24 @@
                 "name": "FSM_Traffic_Light_Crosswalk",
                 "resourceId": "/FSM_Traffic_Light_Crosswalk/main.c"
             }
+        },
+        {
+            "name": "FSM_Traffic_Light_Crosswalk (1)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "FSM_Traffic_Light_Crosswalk",
+                "resourceId": "/FSM_Traffic_Light_Crosswalk"
+            }
+        },
+        {
+            "name": "GPIO_Button_Pointers",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "GPIO_Button_Pointers",
+                "resourceId": "/GPIO_Button_Pointers"
+            }
         }
     ]
 }
