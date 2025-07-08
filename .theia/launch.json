@@ -45,6 +45,42 @@
                 "name": "GPIO_Button_Pointers",
                 "resourceId": "/GPIO_Button_Pointers"
             }
+        },
+        {
+            "name": "Test",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Test",
+                "resourceId": "/Test/main.c"
+            }
+        },
+        {
+            "name": "Timers_Simple_Timer_Delay",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Timers_Simple_Timer_Delay",
+                "resourceId": "/Timers_Simple_Timer_Delay/main.c"
+            }
+        },
+        {
+            "name": "Timers_One_Shot",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Timers_One_Shot",
+                "resourceId": "/Timers_One_Shot/main.c"
+            }
+        },
+        {
+            "name": "Timers_Long_Short_Press",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Timers_Long_Short_Press",
+                "resourceId": "/Timers_Long_Short_Press/main.c"
+            }
         }
     ]
 }
