@@ -81,6 +81,33 @@
                 "name": "Timers_Long_Short_Press",
                 "resourceId": "/Timers_Long_Short_Press/main.c"
             }
+        },
+        {
+            "name": "Timers_Frequency_Generation",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Timers_Frequency_Generation",
+                "resourceId": "/Timers_Frequency_Generation/main.c"
+            }
+        },
+        {
+            "name": "Timers_Music_Player",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Timers_Music_Player",
+                "resourceId": "/Timers_Music_Player/main.c"
+            }
+        },
+        {
+            "name": "Timers_PWM",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Timers_PWM",
+                "resourceId": "/Timers_PWM/main.c"
+            }
         }
     ]
 }
