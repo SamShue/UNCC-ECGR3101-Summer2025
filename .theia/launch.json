@@ -108,6 +108,24 @@
                 "name": "Timers_PWM",
                 "resourceId": "/Timers_PWM/main.c"
             }
+        },
+        {
+            "name": "ADC_InternalTemperature",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ADC_InternalTemperature",
+                "resourceId": "/ADC_InternalTemperature"
+            }
+        },
+        {
+            "name": "ADC_MoistureSensor",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ADC_MoistureSensor",
+                "resourceId": "/ADC_MoistureSensor/main.c"
+            }
         }
     ]
 }
