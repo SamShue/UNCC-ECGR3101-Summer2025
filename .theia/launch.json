@@ -126,6 +126,15 @@
                 "name": "ADC_MoistureSensor",
                 "resourceId": "/ADC_MoistureSensor/main.c"
             }
+        },
+        {
+            "name": "Serial_UART_Echo",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Serial_UART_Echo",
+                "resourceId": "/Serial_UART_Echo"
+            }
         }
     ]
 }
