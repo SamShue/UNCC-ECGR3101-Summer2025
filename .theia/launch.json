@@ -110,12 +110,12 @@
             }
         },
         {
-            "name": "ADC_InternalTemperature",
+            "name": "LPM_Blinking_LED",
             "type": "ccs-debug",
             "request": "launch",
             "projectInfo": {
-                "name": "ADC_InternalTemperature",
-                "resourceId": "/ADC_InternalTemperature"
+                "name": "LPM_Blinking_LED",
+                "resourceId": "/LPM_Blinking_LED"
             }
         },
         {
@@ -134,6 +134,24 @@
             "projectInfo": {
                 "name": "Serial_UART_Echo",
                 "resourceId": "/Serial_UART_Echo"
+            }
+        },
+        {
+            "name": "LPM_Blinking_LED (1)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "LPM_Blinking_LED",
+                "resourceId": "/LPM_Blinking_LED/main.c"
+            }
+        },
+        {
+            "name": "Serial_UART_Transmit_Only",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Serial_UART_Transmit_Only",
+                "resourceId": "/Serial_UART_Transmit_Only/main.c"
             }
         }
     ]
